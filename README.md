@@ -26,7 +26,7 @@ Hi, I'm Rehack, a passionate self-taught frontEnd web developer from China.
 
 [![Codesboy's github stats](https://github-readme-stats.vercel.app/api?username=codesboy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codesboy/codesboy)
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesboy&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
 
 <a href="https://github.com/codesboy/codesboy.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=codesboy&repo=codesboy.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
