@@ -24,12 +24,10 @@ Hi, I'm Rehack, a passionate self-taught frontEnd web developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
-[![Codesboy's github stats](https://github-readme-stats.vercel.app/api?username=codesboy&show_icons=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codesboy/codesboy)
+[![Codesboy's github stats](https://github-readme-stats.vercel.app/api?username=codesboy&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/codesboy/codesboy)
+ [![](https://github-readme-stats.vercel.app/api/top-langs/?username=codesboy&layout=compact&count_private=true&theme=cobalt)](https://github.com/codesboy/codesboy)
 
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesboy&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
-</a>
 
 <a href="https://github.com/codesboy/codesboy.github.io">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=codesboy&repo=codesboy.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=codesboy&repo=vue2-thinkphp5&theme=radical" />
 </a>
