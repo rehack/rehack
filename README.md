@@ -24,7 +24,7 @@ Hi, I'm Rehack, a passionate self-taught frontEnd web developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
-[![Codesboy's github stats](https://github-readme-stats.vercel.app/api?username=codesboy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codesboy/codesboy)
+[![Codesboy's github stats](https://github-readme-stats.vercel.app/api?username=codesboy&show_icons=true&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/codesboy/codesboy)
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesboy&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
